@@ -12,9 +12,9 @@ The file `.exe` must be run as administrator.
 4. Open the link file
 
 #  <a name="download"></a>📥 Download 📥
-<a href="[https://github.com/Khin-kun/CleanUp/releases](https://github.com/Khin-kun/TokenDiscordChecker/releases/tag/python)" download="CleanUp">
+<a href="[https://github.com/Khin-kun/CleanUp/releases](https://github.com/Khin-kun/TokenDiscordChecker/releases/tag/python)" download="Token Checker">
     <div style="display: flex; align-items: center;">
         <img src="https://github.com/Khin-kun/CleanUp/raw/main/win.png" height="16.5">
-        <button style="text-decoration:none; margin-left: 30px;">CleanUp</button>
+        <button style="text-decoration:none; margin-left: 30px;">Token Checker</button>
     </div>
 </a>
